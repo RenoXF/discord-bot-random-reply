@@ -1,4 +1,4 @@
-In `config.json`, replace `<bot token>` with your bot token.
+In `config.json`, replace `bot token` with your bot token.
 
 If you want to, you can edit `replies.json`
 
